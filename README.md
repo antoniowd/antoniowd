@@ -1,4 +1,7 @@
-### Hi there 👋
+## Antonio Martin 👋
+
+---
+
 
 <!--
 **antoniowd/antoniowd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Desarrollador web y especialista en web scraping. Trabajo como profesional independiente y ayudo a otras empresas o emprendimientos como consultor en el area de desarrollo web.
+
+En el sector que más experiencia tengo son aplicaciones de inventarios, contables y de facturación electrónica. Tambien uso técnicas de web scraping para crear comparador de precios, automatización de procesos en la web, extracción de información relevante a ciertos criterios de búsquedas y pruebas funcionales de aplicaciones o sitios web.
