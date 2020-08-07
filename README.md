@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-Desarrollador web y especialista en web scraping. Trabajo como profesional independiente y ayudo a otras empresas o emprendimientos como consultor en el area de desarrollo web.
+Self-taught web developer for some time. I really like to read and learn new things.
 
-En el sector que más experiencia tengo son aplicaciones de inventarios, contables y de facturación electrónica. Tambien uso técnicas de web scraping para crear comparador de precios, automatización de procesos en la web, extracción de información relevante a ciertos criterios de búsquedas y pruebas funcionales de aplicaciones o sitios web.
+I work as a freelancer, with a greater specialization in the backend. I have developed billing, inventory and business management systems. 
+I have also developed some price comparators as personal projects; using web scraping to extract the necessary data from the websites.
+
+In the future I want to continue improving my knowledge as a programmer and create solutions that help other people
