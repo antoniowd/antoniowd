@@ -23,4 +23,5 @@ I have a good base of HTML, CSS and Javascript and an excellent domain in the te
 
 In the future I want to continue improving my knowledge as a programmer and create solutions that help other people.
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/antoniowebdev/) and [Twitter](https://twitter.com/antoniowebdev)
+- I'm writing a blog (in Spanish) on [AntonioWebDev](https://antonioweb.dev) about web development.
+- Reach me on [LinkedIn](https://www.linkedin.com/in/antoniowebdev/) and [Twitter](https://twitter.com/antoniowebdev)
