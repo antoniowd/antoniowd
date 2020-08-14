@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 Full stack web developer for some time. I like to read, learn and build new things.
 
-I have a good base of HTML, CSS and Javascript and an excellent domain in the technology stack of NodeJS, ReactJS, Typescript, MySQL and MongoDB. I work as a freelancer and I've developed billing, inventory and business management systems.
+I have a good base of HTML, CSS and Javascript and an excellent domain in the technology stack of NodeJS, ReactJS, Typescript, MySQL and MongoDB. Working as a freelancer I've developed billing, inventory and business management systems.
 
 In the future I want to continue improving my knowledge as a programmer and create solutions that help other people.
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/antoniowebdev/) and [Twitter](https://twitter.com/antoniowebdev)
