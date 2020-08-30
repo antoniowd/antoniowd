@@ -63,7 +63,6 @@ In the future I want to continue improving my knowledge as a programmer and crea
 </p>
 
 <br />
-<br />
 
 <p style="text-align: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniowd&hide=vue">
