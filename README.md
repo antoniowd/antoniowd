@@ -1,27 +1,20 @@
-## Antonio Martin 👋
+## Hi there. Welcome to my GitHub account 👋
 
+### I'm Antonio Martin - Full Stack Developer for some time.
 
-<!--
-**antoniowd/antoniowd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-Full stack web developer for some time. I like to read, learn and build new things.
+- 🔭 I’m currently working as a freelance
+- 🌱 I’m currently learning in the GoStack's Bootcamp, by [Rocketseat](https://rocketseat.com.br/)
+- 👯 I’m looking to collaborate with other web developers.
+- 😃 I like to read, learn and build programs.
+- 💬 Ask me about web development and web scraping.
+- ⚡ Fun fact: I like to program with music as a professional pianist in a concert. I think that my ⌨️ is a 🎹.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/antoniowebdev/) or [Twitter](https://twitter.com/antoniowebdev)
 
 I have a good base of HTML, CSS and Javascript and an excellent domain in the technology stack of NodeJS, ReactJS, Typescript, MySQL and MongoDB. Working as a freelancer I've developed billing, inventory and business management systems.
 
 In the future I want to continue improving my knowledge as a programmer and create solutions that help other people.
 
-- I'm writing a blog (in Spanish) on [AntonioWebDev](https://antonioweb.dev) about web development.
-- Reach me on [LinkedIn](https://www.linkedin.com/in/antoniowebdev/) and [Twitter](https://twitter.com/antoniowebdev)
+### 📘 Latest Blog Post (Spanish)
+- [Creando un web crawler para extraer información de un sitio web](https://antonioweb.dev/articulo/creando-un-web-crawler-para-extraer-informacion-de-un-sitio-web)
+- [5 aplicaciones web para practicar tus habilidades](https://antonioweb.dev/articulo/aplicaciones-web-para-practicar-tus-habilidades)
+- [Función callback en javascript: La guía completa](https://antonioweb.dev/articulo/funcion-callback-javascript-guia-completa)
