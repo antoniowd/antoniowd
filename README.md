@@ -18,6 +18,7 @@
 [<img align="left" alt="Antonio Martin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/antoniowebdev)
 
 <br />
+<br />
 
 I have a good base of HTML, CSS and Javascript and an excellent domain in the technology stack of NodeJS, ReactJS, Typescript, MySQL and MongoDB. Working as a freelance I've developed billing, inventory and business management systems.
 
