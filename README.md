@@ -21,4 +21,8 @@ In the future I want to continue improving my knowledge as a programmer and crea
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniowd&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniowd&show_icons=true&theme=dracula&count_private=true)]
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniowd&hide=vue&theme=dracula&layout=compact)]
