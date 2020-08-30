@@ -55,10 +55,16 @@ In the future I want to continue improving my knowledge as a programmer and crea
 - [5 aplicaciones web para practicar tus habilidades](https://antonioweb.dev/articulo/aplicaciones-web-para-practicar-tus-habilidades)
 - [Función callback en javascript: La guía completa](https://antonioweb.dev/articulo/funcion-callback-javascript-guia-completa)
 
----
-
-![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=antoniowd&show_icons=true&count_private=true)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniowd&hide=vue&layout=compact)
+<p style="text-align: center;">
+<img src="https://github-readme-stats.vercel.app/api?username=antoniowd&show_icons=true&count_private=true">
+</p>
+
+<br />
+<br />
+
+<p style="text-align: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniowd&hide=vue">
+</p>
