@@ -8,13 +8,22 @@
 - 😃 I like to read, learn and build programs.
 - 💬 Ask me about web development and web scraping.
 - ⚡ Fun fact: I like to program with music as a professional pianist in a concert. I think that my ⌨️ is a 🎹.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/antoniowebdev/) or [Twitter](https://twitter.com/antoniowebdev)
+
+### 📫 How to reach me
+
+[<img align="left" alt="antoniowebdev" width="22px" src="https://antonioweb.dev/images/image-og.png" />](https://antonioweb.dev/)
+
+[<img align="left" alt="Antonio Martin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/antoniowebdev/)
+
+[<img align="left" alt="Antonio Martin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/antoniowebdev)
+
+<br />
 
 I have a good base of HTML, CSS and Javascript and an excellent domain in the technology stack of NodeJS, ReactJS, Typescript, MySQL and MongoDB. Working as a freelance I've developed billing, inventory and business management systems.
 
 In the future I want to continue improving my knowledge as a programmer and create solutions that help other people.
 
-### Languages and Tools:
+### ⚙️ Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
