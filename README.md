@@ -2,6 +2,10 @@
 
 ### I'm Antonio Martin - Full Stack Developer for some time.
 
+I have a good base of HTML, CSS and Javascript and an excellent domain in the technology stack of NodeJS, ReactJS, Typescript, MySQL and MongoDB. Working as a freelance I've developed billing, inventory and business management systems.
+
+In the future I want to continue improving my knowledge as a programmer and create solutions that help other people.
+
 - 🔭 I’m currently working as a freelance
 - 🌱 I’m currently learning in the GoStack's Bootcamp, by [Rocketseat](https://rocketseat.com.br/)
 - 👯 I’m looking to collaborate with other web developers.
@@ -19,10 +23,6 @@
 
 <br />
 <br />
-
-I have a good base of HTML, CSS and Javascript and an excellent domain in the technology stack of NodeJS, ReactJS, Typescript, MySQL and MongoDB. Working as a freelance I've developed billing, inventory and business management systems.
-
-In the future I want to continue improving my knowledge as a programmer and create solutions that help other people.
 
 ### ⚙️ Languages and Tools:
 
