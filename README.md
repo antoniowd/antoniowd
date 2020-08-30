@@ -18,3 +18,7 @@ In the future I want to continue improving my knowledge as a programmer and crea
 - [Creando un web crawler para extraer información de un sitio web](https://antonioweb.dev/articulo/creando-un-web-crawler-para-extraer-informacion-de-un-sitio-web)
 - [5 aplicaciones web para practicar tus habilidades](https://antonioweb.dev/articulo/aplicaciones-web-para-practicar-tus-habilidades)
 - [Función callback en javascript: La guía completa](https://antonioweb.dev/articulo/funcion-callback-javascript-guia-completa)
+
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniowd&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
