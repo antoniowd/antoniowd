@@ -16,5 +16,6 @@ I specialize in developing comprehensive software solutions, including:
 - **Business Management Systems**: Tools to streamline operations and improve business efficiency.
 - **Ecommerce Solutions**: Robust platforms to drive online sales and enhance customer experiences.
 - **Data Aggregators**: Systems to gather and analyze large datasets for actionable insights.
+- **Web Scraping**: Extracting valuable data from websites using automated tools and techniques.
 ---
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my work.
