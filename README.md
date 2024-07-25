@@ -16,12 +16,5 @@ I specialize in developing comprehensive software solutions, including:
 - **Business Management Systems**: Tools to streamline operations and improve business efficiency.
 - **Ecommerce Solutions**: Robust platforms to drive online sales and enhance customer experiences.
 - **Data Aggregators**: Systems to gather and analyze large datasets for actionable insights.
-
-## 🌐 Connect with Me
-Email: antonio.martin@itoneconsulting.com<br/>
-LinkedIn: [Antonio Martin](https://www.linkedin.com/in/antoniowebdev/)<br/>
-X: [@antoniowebdev](https://twitter.com/antoniowebdev)<br/>
-
-
 ---
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my work.
